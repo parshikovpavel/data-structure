@@ -13,7 +13,7 @@
 
 *Heap* — это одна из максимально эффективных реализаций [priority queue](https://en.wikipedia.org/wiki/Priority_queue), и на самом деле *priority queue* часто называют «*heap*», независимо от того, как они могут быть реализованы. *Heap* не является *sorted structure*; ее можно считать *partially ordered*. *Heap* является полезной *data structure*, когда необходимо несколько раз удалить объект с самым высоким (или самым низким) *priority* или когда *insertion*'s должны чередоваться с *removal*'s *root node* (как в задаче top-k).
 
-
+1
 
 
 
