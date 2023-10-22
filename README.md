@@ -1,5 +1,5 @@
 ## Data structure
-| Name | Description |
-| ---- | ----------- |
-| Heap |             |
+| Name                   | Description |
+| ---------------------- | ----------- |
+| [Heap](heap/README.md) | Куча        |
 
