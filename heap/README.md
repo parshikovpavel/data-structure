@@ -15,7 +15,7 @@
 
 *Heap* не является *sorted structure*; ее можно считать *partially ordered*. Т.е. не существует какого-то определенного порядка между *sibling*'s (братья и сестры) или *cousin*'s и не существует [in-order traversal](https://en.wikipedia.org/wiki/Inorder_traversal) (обхода по порядку), как например для [binary search tree](https://en.wikipedia.org/wiki/Binary_search_tree). 
 
-
+Для одного и того же набора *element*'ов может существовать несколько вариантов построения *heap* на их основе.
 
 
 
@@ -168,7 +168,10 @@
 
 ![undefined](../img/2880px-Heap-as-array.svg.png)
 
+![1_NymyplbLS5sHVnXLyIkY7g](../img/1_NymyplbLS5sHVnXLyIkY7g.png)
+
+
+
 ## Реализация в Go
 
-[Смотреть тут](https://github.com/parshikovpavel/cheat-sheets/blob/master/Go/packages/container_heap.md)
-
+[Смотреть тут](https://github.com/parshikovpavel/cheat-sheets/blob/master/Go/packages/container_heap.md)мондлыаоотв
